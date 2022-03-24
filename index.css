@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(206, 206, 206);
+    /* text-align: center; */
+    color: rgb(83, 167, 34);
+    font-weight: bolder;
+    font-size: 5vw;
+    font-style: normal;
+    min-width: 500px;
+    max-width: 700px;
+    height: auto ;
+}
+
+button {
+    color: rgb(206, 206, 206);
+    width: 150px;
+    background: rgb(83, 167, 34);
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 4vw;
+    animation: both;
+    border: none;
+}
+
+#delete {
+    color: rgb(83, 167, 34);
+    width: 150px;
+    background: rgb(206, 206, 206);
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 4vw;
+    animation: both;
+    border: solid;
+    border-color: rgb(83, 167, 34);
+}
+
+input {
+    height: 75px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+    border-style: double;
+    border-color: rgb(83, 167, 34);
+    box-sizing: border-box;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+ul{
+    color: rgb(83, 167, 34);
+    list-style-type: decimal;
+    overflow: hidden;
+    padding-left: 0;
+    font-size: 3vw;
+
+}
+ul a:hover {
+    color: black;
+}
+
